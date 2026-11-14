@@ -1,4 +1,7 @@
 # Digital-herbarium-pilot
+Preserving historical plant life of Harris County!
+
+## Extended context:
 2026 - 2027 Fondren Fellows pilot of digital herbarium at Rice University - member of TORCH (Texas-Oklahoma Regional Consortium of Herbaria). All biodiversity data will be made available via Symbiota --> GBIF.
 
 ## Project Description
