@@ -1,5 +1,5 @@
 # Digital-herbarium-pilot
-2026 - 2027 Fondren Fellows pilot of digital herbarium at Rice University - member of TORCH (Texas-Oklahoma Regional Consortium of Herbaria). All biodiversity data will be made available via Symbiota --> GBIF
+2026 - 2027 Fondren Fellows pilot of digital herbarium at Rice University - member of TORCH (Texas-Oklahoma Regional Consortium of Herbaria). All biodiversity data will be made available via Symbiota --> GBIF.
 
 ## Project Description
 Rice is home to a valuable but currently inaccessible herbarium collection, including specimens gathered from Harris County and the Big Thicket Preserve by Professor Emeritus Dr. Paul Harcombe, as well as historical specimens collected by Sandy Ellisk at Herman Brown Park. This project will build a pilot digital herbarium by researching, designing, testing, and implementing a scalable digitization workflow. Through this process, Rice will become connected to a network of national herbaria, historic Harris County botanical life will become accessible to all, and Rice will gain the capacity to expand the herbarium to preserve current campus plant life and document changing ecology.  
